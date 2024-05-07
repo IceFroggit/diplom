@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">diplom</string>
+    <string name="welcome_back">Welcome\nBack</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="evening_routine">Evening routine</string>
+    <string name="rewards">Rewards</string>
+    <string name="sleep_course">Sleep Course</string>
 </resources>
